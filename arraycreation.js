@@ -23,7 +23,7 @@ const array = [
   },
   {
     first_name: "Raj",
-    last_name: "Kapoor",
+    last_name: "Kapur",
     header_1: "val1",
     header_2: "val2",
     header_3: "val3",
